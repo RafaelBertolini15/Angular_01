@@ -7,3 +7,4 @@
 "# ExercicioGit" 
 "#Calculadora_somente_soma-Angular" 
 "# Calulador_soma_lista_compras_angulas" 
+"# Calulador_soma_lista_compras_angular" 
