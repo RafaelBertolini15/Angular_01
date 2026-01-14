@@ -1,17 +1,17 @@
-# Explicando repositório
+# Explicação do Repositório
 
-Este repositório **serve para guardar** as primeiras aplicações em que tive com o **Angular**. Foram feitos **seguindo passos** de um curso pela plataforma *Udemy*.
+Neste repositório tem como objetivo *registrar e documentar* minhas primeiras aplicações desenvolvidas no **Angular**, servindo como espaço de aprendizado e evolução prática na tecnologia. Os projetos foram construídos **seguindo passo a passo** um curso da plataforma [*Udemy*](https://www.udemy.com/?im_ref=VpgzYEW-pxycRHlUCjS4LRRoUkpX8Cxv7xVNSM0&sharedid=630324&irpid=313262&utm_medium=affiliate&utm_source=impact&utm_audience=mx&utm_tactic="Germany"%2C"Subnetwork"&utm_content=3281534&utm_campaign=313262&irgwc=1&afsrc=1), com foco em compreender os **fundamentos básicos do Angular**, sua estrutura, organização de componentes e comunicação com dados.
+
+Ao longo do repositório, é possível encontrar desde aplicações simples, voltadas ao entendimento dos conceitos iniciais do framework, até projetos um pouco mais completos, que envolvem **CRUD**, integração com **APIs**, uso de **Angular Material** e persistência de dados no **Local Storage**. Cada aplicação foi pensada para reforçar conceitos essenciais e simular cenários próximos aos encontrados em projetos reias.
 
 [Link para o curso](https://www.udemy.com/share/10d90N3@6opGk50Z0cS0ZpjGNsJFTJG8xKDym2PUvj9BwfIznBGR43cxZePqFHPudvcWtmVaxw==/)
 
-## Conceitos básicos
+## Aprendizado
 
-Na pasta de conceitos básicos, você encontra uma **calculadora** que executa somente **somas**, e também encontra uma **lista de compras**, nesses dois aprendo o básico do angular. Um breve **resumo do aprendizado** pode ser descrito: 
+Durante o desenvolvimento dos projetos presentes neste repositório, foram adquiridos diversos conhecimentos fundamentais para o uso do Angular. Entre os principais aprendizados, destacam-se a **renderização condicional** de componentes, o uso de diretivas estruturais como ***ngIf, *ngFor e @for**, além da **manipulação dinâmica de classes e estados visuais** nos componentes.
 
-> Renderização de condicional com IF, capturar valores de formulários utilizando-se de módelos Forms do Angular, aprendo a trabalhar com submit de formulário, fazer um formulário de adicção de itens, trabalhar com classes e modelos de arrays, aprendo a usar @for e ngFor para renderizar componentes de lista, e aprendo a lógica de riscar itens e classes de forma dinaminca no componente.
+Também foi possível aprender a **capturar e manipular dados de formulários**, utilizando os módulos de **Forms do Angular**, trabalhando com eventos de *submit*, validação básica e criação de formulários para adição e edição de dados. Outro ponto importante foi o uso de **arrays e modelos de classes**, permitindo organizar melhor os dados e aplicar operações como inserção, edição e remoção de itens.
 
-## Crud angular material 
+No desenvolvimento de aplicações mais completas, foram explorados conceitos como a **criação de layouts com templates**, o uso do **Angular Material** para construção de interfaces mais modernas e responsivas, além da **integração com APIs REST**, realizando chamadas HTTP para consumo e gerenciamento de dados. Também foi abordado o uso de **services** para centralizar regras de negócio, incluindo a manipulação do **Local Storage** como forma de persistência de dados, trabalhando **com JSON**, recuperação de dados salvos e atualização de listas existentes.
 
-Nessa pasta de crud angular material você encontra um **sistema** de cadastro usuário, onde encontra uma aba de formulário onde é possível registrar novos usuários e uma aba de consulta, onde é possível consultar os usuários que foram cadastrados e edita-los ou excluilos. Um breve **resumo do aprendizado** pode ser descrito: 
-
->Criação de layouts com templates, implementação de APIs Rest para gerenciar dados, realização de chamadas http, integração do Google Cloud para funcionalidades de login social, utilização de métodos em um serviço para acessar Local Storage, utilização do local storage como banco dados, conseguindo recuperar arrays existentes e usar push para adicionar novos clientes, utilização de JSON.
+>De forma geral, este repositório representa minha base de aprendizado em Angular, consolidando conceitos essenciais do framework e preparando o caminho para projetos mais avançados, com melhor organização de código, reutilização de componentes e integração com serviços externos.
